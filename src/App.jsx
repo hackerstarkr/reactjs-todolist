@@ -7,7 +7,7 @@ function App() {
 
     'GO to gym',
     'Eat the fruits',
-    'Fuck the girls'
+ 
   ])
   const [todoValue, setTodosValue] = useState('')
 
